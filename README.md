@@ -1,6 +1,7 @@
 # Data Analytics and Science Portfolio  
 Welcome to my project portfolio! This repository showcases my expertise in **data analytics**, **data science**, and **business intelligence** through a diverse collection of projects. Each project demonstrates skills in data processing, visualization, machine learning, and decision-making insights.
-#Note: Use the project title links to access detailed information and resources for each project.
+
+# Note: Use the project title links to access detailed information and resources for each project.
 
 ## Projects Overview  
 ### 1. [Unemployment Rate Analysis](https://github.com/sisbeyene/oibsip_2)  
